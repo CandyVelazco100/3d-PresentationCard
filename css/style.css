@@ -128,18 +128,18 @@ body {
 
 .details-container .content input:nth-child(2) {
     background-color: transparent;
-    border: 1px solid #58a6ff;
+    border: 1px solid #492890;
     color: black;
 }
 
 .details-container .content input:nth-child(1):hover {
     background-color: transparent;
-    border: 1px solid #58a6ff;
+    border: 1px solid #492890;
     color: black;
 }
 
 .details-container .content input:nth-child(2):hover {
-    background-color: #58a6ff;
+    background-color: #492890;
     color: white;
 }
 
